@@ -1,0 +1,11 @@
+In this Project we will be seeing how we can teach a Ball ⚽ to Accuratelly Hit The Target Target 🎯 Which are Randomly appering on the screen by learning through Observations .
+
+We are using LinearRegression for this Project.
+
+Here we just have to predict one variable that is the initial speed(U) of the Ball ⚽ based on the given input of theta (Angle) by the User.
+
+The Basic idea is that first we will be traning the model by providing it with
+
+the correct answer for U.
+
+The Data to be feed to the model or the Feactures are X_DISTANCE and Y_DISTANCE of the Target and the theta (ANGLE).
